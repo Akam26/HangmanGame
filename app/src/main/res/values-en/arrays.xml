@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ordliste">
+        <item>ONE</item>
+        <item>OSLO</item>
+        <item>JAPAN</item>
+        <item>JUST</item>
+        <item>CAT</item>
+        <item>TAXI</item>
+        <item>HELLO</item>
+        <item>GUD</item>
+        <item>HIOA</item>
+        <item>RANDOM</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Norsk</item>
+        <item>Engelsk</item>
+    </string-array>
+    <string-array name="lang3code">
+        <item>no</item>
+        <item>en</item>
+    </string-array>
+</resources>

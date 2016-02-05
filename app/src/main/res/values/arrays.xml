@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ordliste">
+        <item>FARFAR</item>
+        <item>STAVANGER</item>
+        <item>MOTORVEI</item>
+        <item>FLYPALASS</item>
+        <item>ISHOCKEY</item>
+        <item>DROSJE</item>
+        <item>LANGRENN</item>
+        <item>BRUDEKJOLE</item>
+        <item>EIENDOMSMEGLER</item>
+        <item>SPISESTUE</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Norsk</item>
+        <item>Engelsk</item>
+    </string-array>
+    <string-array name="lang3code">
+        <item>no</item>
+        <item>en</item>
+    </string-array>
+</resources>
